@@ -1,0 +1,45 @@
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-family: "montB";
+}
+
+#home{
+    font-family: "montB";
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.596);
+    color: rgb(249, 250, 170);
+    padding: 10px;
+    position: relative;
+    top: 160px;
+    
+}
+
+.success{
+    text-align: center;
+    background-image: url(../images/backgrnd.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 300px;
+
+}
+
+#succ{
+    font-size: 70px;
+    font-family: "montB";
+    color: rgb(249, 250, 170);
+    -webkit-text-stroke-color:black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.Successfooter{
+    text-align: center;
+    background-color: black;
+    padding: 15px;
+    margin-top: 200px;
+}
+#footsucc{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+}

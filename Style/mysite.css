@@ -1,0 +1,248 @@
+
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Bold.ttf);
+    font-family: "montserrat";
+}
+.All{
+    background-image: url(../images/backgrnd.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Title{
+    text-align: center;
+    background-image: url(../images/cver.jpg );
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: montserrat;
+    font-size: 55px;
+    color:rgb(249, 250, 170);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    padding-top: 71px;
+}   
+#Heading{
+    position: absolute;
+    top: 1%;
+    left: 6%;
+    width: 100%;
+}
+#subheading{
+    position: absolute;
+    top: 23%;
+    left: 5.5%;
+    width: 100%;
+    padding-left: 10px;
+}
+.Body{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    font-size: 48px;
+    background-color: rgba(39, 38, 38, 0.623);
+    margin-left: 180px;
+    margin-right: 180px;
+    padding-top: 1px;
+    position: relative;
+    top: 100px;
+}
+#Greet{
+    text-align: center;
+    font-family: montserrat;
+    color:rgb(249, 250, 170);
+    padding-top: 10px;
+    position: relative;
+    bottom: 20px;
+   
+}
+#Content{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255); 
+    margin-top: -40px;
+    margin-bottom: 200px;
+    padding-bottom: 38px;
+}
+#profilepic{
+    border-radius: 50%;
+    height: 280px;
+    width:290px;
+    position: relative;
+    bottom: 35px;
+    right: 450px;
+
+}
+.Skills{
+    text-align: center;
+    font-family: montserrat;
+    color:rgb(249, 250, 170);
+    line-height: 1px;
+    font-size: 30px;
+}
+#Myskills{
+    padding-top: 30px;
+    position: relative;
+    top: 40px;
+}
+.Web{
+    text-align: center;
+    font-family: montserrat;
+    color:rgb(249, 250, 170);
+    line-height: 80px;
+    margin-bottom: -35px;
+    position: relative;
+    bottom: 30px;
+    font-size: 20px;
+}
+#browser{
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    position: relative;
+    top: 65px;
+    right: 160px;
+
+}
+.webcont{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+    margin-top: -35px;
+    line-height: 25px;
+    position: relative;
+    bottom: 30px;
+    padding-left: 270px;
+    padding-right: 270px;
+}
+.artist{
+    text-align: center;
+    font-family: montserrat;
+    font-size: 20px;
+    color:rgb(249, 250, 170);
+    line-height: 80px;
+    margin-top: 80px;
+    margin-bottom: -140px;
+    position: relative;
+    bottom: 60px;
+}
+.artcont{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+    margin-top: -35px;
+    line-height: 25px;
+    margin-bottom: 60px;
+    position: relative;
+    bottom: 95px;
+    padding-left: 280px;
+    padding-right: 280px;
+}
+#pallete{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    right: 150px;
+}
+.Enviromentalist{
+    text-align: center;
+    font-family: montserrat;
+    font-size: 20px;
+    color:rgb(249, 250, 170);
+    line-height: 80px;
+    margin-top: 80px;
+    margin-bottom: -140px;
+    position: relative;
+    bottom: 100px;
+}
+.envicont{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+    margin-top: -35px;
+    line-height: 25px;
+    margin-bottom: 60px;
+    position: relative;
+    bottom: 125px;
+    padding-left: 280px;
+    padding-right: 280px;
+}
+#tree{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    position: relative;
+    bottom: 120px;
+    right: 155px;
+
+}
+.contact{
+    text-align: center;
+    font-family: montserrat;
+    color:rgb(249, 250, 170);
+    font-weight: bold;
+    line-height: 50px;
+    margin-top: 80px;
+    font-size: 30px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+.contactcont{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+    margin-top: -1px;
+    line-height: 40px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .8px;
+    font-size: 30px;
+    padding-right: 300px;
+    padding-left: 300px;
+    
+}
+#subcont{
+    text-align: center;
+    font-family: montserrat;
+    color:rgb(249, 250, 170);
+    margin-top: 25px;
+    margin-bottom: 40px;
+    line-height: 2.5px;
+}
+#Button{
+    text-align: center;
+    padding: 15px;
+    font-family: montserrat;
+    font-size: 25px;
+    color: rgb(249, 250, 170);
+    margin-left: 573px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgba(44, 44, 44, 0.479);
+    border-radius: 3%;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+#Button:hover{
+    background-color: rgba(0, 0, 0, 0.671);
+    color: rgb(249, 250, 170);
+}
+.links{
+    text-align: center;
+
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+}
+.footer{
+    text-align: center;
+    font-family: montserrat;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.skill{
+    background-color: rgba(36, 35, 35, 0.541);
+    height: 800px;
+    margin-right: 180px;
+    margin-left: 180px;
+}
